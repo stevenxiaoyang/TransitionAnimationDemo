@@ -1,0 +1,2 @@
+# TransitionAnimationDemo
+这是四个转场动画,由TransitionHelper和InteractiveTransition进行统一的动画和手势控制
